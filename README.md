@@ -1,1 +1,1 @@
-# spectral_libraries
+# spectral_libraries from Manjavacas et al. 2014: (http://adsabs.net/abs/2014A&A...564A..55M); Manjavacas et al. 2016 (http://adsabs.net/abs/2016MNRAS.455.1341M); Manjavacas et al. 2019: (http://adsabs.net/abs/2019AJ....157..101M), and Manjavacas et al. 2020 (http://adsabs.net/abs/2020MNRAS.491.5925M). 
